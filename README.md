@@ -4,10 +4,10 @@ Traning and validating a logistic regression model to classify the blood source 
 
 
 **Confusion Matrix:**
-![AML_BloodSource_LR-Classification_Traning_on_44754_ProbSets_from_2024_Subjects-Confusion_Matrix](https://user-images.githubusercontent.com/39611565/202937741-eb52ed5b-1f19-4883-a7ef-3a7c8e4f8475.png)
+![AML_BloodSource_LR-Classification_Traning_on_44754_ProbSets_from_2024_Subjects-Confusion_Matrix](https://user-images.githubusercontent.com/39611565/202943092-0c76d9b9-df3f-4247-863a-49714a1e33f8.png)
 
 
 **ROC Curve:**
-![AML_BloodSource_LR-Classification_Traning_on_44754_ProbSets_from_2024_Subjects-ROC_Curve](https://user-images.githubusercontent.com/39611565/202937720-576d8331-0722-4cfa-99fa-98d3515f34df.png)
+![AML_BloodSource_LR-Classification_Traning_on_44754_ProbSets_from_2024_Subjects-ROC_Curve](https://user-images.githubusercontent.com/39611565/202943064-2db46738-58c1-40d3-86ae-77f008b0f8e1.png)
 
 
