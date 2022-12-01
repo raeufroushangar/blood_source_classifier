@@ -1,6 +1,6 @@
 # Description:
 
-Traning and validating logistic regression model to classify sample blood source (bone marrow vs. peripheral blood) of 2,024 aml patients from gene expression data (2,761 expression arrays) in scikit-learn. Model has 96.94 (+/- 0.20) traning/validation accuracy. The data, code, and supplementary materials can all be found here
+Traning and validating logistic regression model to classify sample blood source (bone marrow vs. peripheral blood) of 2,024 aml patients from gene expression data (2,761 expression arrays) in scikit-learn. Model has 96.94 (+/- 0.20) traning/validation accuracy. The data, code, and supplementary materials can all be found here.
  
 
 **Confusion Matrix:**
